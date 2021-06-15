@@ -1,0 +1,12 @@
+/* {
+    color: #ffffff;
+} */
+table{
+    width: 100%;
+    margin: 20px 0px;
+}
+table, tr, th, td{
+    border: 1px solid #ececec;
+    border-collapse: collapse;
+    padding: 15px;
+}
